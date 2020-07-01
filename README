@@ -1,9 +1,7 @@
-Possible final project for cs240
-This program calculates grade averages and least points need to pass a course.
-
+Final project for cs240
+Java program calculates grade averages and least points need to pass a course.
 
 Build Instructions:
-
 make clean
 make all
 make run
